@@ -1,8 +1,14 @@
+.red {
+			background-color:rgba(255,0,0, 0.5);
+}
+.gree {
+    background-color:rgba(0,255,0, 0.5);
+}
 .blue {
-			background-color:rgba(0,255,0, 0.5);
+    background-color:rgba(0,0,255, 0.5);
 }
 .circle{
 			border-radius:50%;
 			width:500px;
-			height:500px;
+			height:1000px;
 }
